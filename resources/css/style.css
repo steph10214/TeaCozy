@@ -54,7 +54,7 @@ color: seashell;
 #mission {
   align-items: center;
   padding-top: 70px;
-  height: 700px;
+  height: 770px;
   width: 1200px;
   margin: auto;
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
@@ -114,7 +114,7 @@ justify-content: center;
 #locations {
   align-items: center;
   padding-top: 70px;
-  height: 500px;
+  height: 570px;
   width: 1200px;
   margin: auto;
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
